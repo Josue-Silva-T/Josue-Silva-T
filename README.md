@@ -1,4 +1,5 @@
-<H1 id="Titulo">Hola!, Soy Josue Silva</H1>
+<H1 id="Titulo">Hola!, Soy Josue Silva 🦐</H1>
+<p id="acercademi">Estudio Ingenieria en sistemas computacionales</p>
 
 <!--
 **Josue-Silva-T/Josue-Silva-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
