@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Josue-Silva-T&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=Josue-Silva-T&theme=github_dark&layout=compact" />
+  <img align="center" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue-Silva-T&theme=transparent"/>
 </a>
 <p align="center">
 <br>
