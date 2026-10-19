@@ -12,6 +12,12 @@
 <a href="https://www.linkedin.com/in/carlos-josu%C3%A9-gonz%C3%A1lez-silva-559235210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 </p>
 
+<h3 align="center">Languages & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,cpp,vim,java" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,ubuntu,python,mysql,neovim,atom,pwsh" /><br>
+</div>
+
 <h1>Some of my projects 🛰️</h1>
 <ul>
   <li>🔭 <a href="https://github.com/Josue-Silva-T/DetectExoplanetsSimulation"><strong>DetectExoplanetsSimulation</strong></a> — Exoplanet detection simulation.</li>
